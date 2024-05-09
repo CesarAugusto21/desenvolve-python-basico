@@ -1,0 +1,9 @@
+Solução pseudocódigo :
+
+1- Inicio;
+2- leia n;
+3- n1 = n-1;
+4- n2 = 10-n;
+5- n1 * 10 + n2 = r;
+6- imprima r
+7- fim;

@@ -1,0 +1,8 @@
+Dissertativa:
+1- Leia e armazene o número n que será multiplicado por 9.           #entrada
+
+2- subtraia n - 1 e armazene como primeiro digito.  #processamento
+
+3- subtraia 10-n e armazene como segundo digito. #processamento
+
+4- Apresente o primeiro digito e segundo digito juntos. Encerre o programa.  #saída
