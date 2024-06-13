@@ -12,4 +12,4 @@ preco_m2= float(input("Qual o preço do terreno por metro quadrado?")) #entrada 
 area_m2= comprimento * largura   #processamento de dados para achar a area por metro quadrado
 preco_total = preco_m2 * area_m2  #processamento de dados para achar o preço total
 
-print(f"A area total do terreno é : {area_m2}m² e o preço total é : R${preco_total: ,.3f}")  #saida de dados formatado de acordo com o pedido
+print(f"A area total do terreno é : {area_m2}m² e o preço total é : R${preco_total: ,.2f}")  #saida de dados formatado de acordo com o pedido
