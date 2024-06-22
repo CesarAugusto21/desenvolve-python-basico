@@ -1,0 +1,3 @@
+Telescópio,1400.0,10
+Telescópio,1400.0,10
+Telescópio,1400.0,10
